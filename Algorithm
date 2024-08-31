@@ -1,0 +1,29 @@
+ Alogrithm
+
+Question 1: 
+
+1.Start 
+2.Ask user a number  
+3.Set i=2 
+4.Check if the number == 1, if yes then go to step 8, else go to step 5. 
+5.Check If number % i == 0, then go to step 8, else go to step 6 
+6.Increase i by 1  
+7.If i > sqrt of number, then go to step 9, else go to step 5 
+8.Display “number is not a prime number” 
+9.Display “number is a prime number” 
+10.End 
+
+ Question 2: 
+
+1.Start 
+2.Ask the user for day number 
+3.Set Remainder = (day number % 7) 
+
+4.If remainder == 0, Print “Sunday” 
+5.If remainder == 1, Print “Monday” 
+6.If remainder == 2, Print “Tuesday” 
+7.If remainder == 3, Print “Wednesday” 
+8.If remainder == 4, Print “Thursday”
+9.If remainder == 5, Print “Friday” 
+10.If remainder == 6, Print “Saturday” 
+11.End 
